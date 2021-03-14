@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CardiDx
 - 👀 I’m interested in Frontend dev and Design
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ i'm want to work in ittransition
+- 📫 My E-mail: verbitskiya@bk.ru
 
 <!---
 CardiDx/CardiDx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
